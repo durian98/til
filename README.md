@@ -5,11 +5,11 @@
 
 ---
 
-Total **45** &nbsp;·&nbsp; Categories **9** &nbsp;·&nbsp; Last updated **2026-09-15**
+Total **46** &nbsp;·&nbsp; Categories **9** &nbsp;·&nbsp; Last updated **2026-09-22**
 
 ---
 
-[AI](#ai) &nbsp;·&nbsp; 13 &nbsp;|&nbsp; [Algorithm](#algorithm) &nbsp;·&nbsp; 13 &nbsp;|&nbsp; [Cs](#cs) &nbsp;·&nbsp; 2 &nbsp;|&nbsp; [Dev](#dev) &nbsp;·&nbsp; 4 &nbsp;|&nbsp; [Django](#django) &nbsp;·&nbsp; 1 &nbsp;|&nbsp; [Js](#js) &nbsp;·&nbsp; 3 &nbsp;|&nbsp; [Spring](#spring) &nbsp;·&nbsp; 1 &nbsp;|&nbsp; [Vue](#vue) &nbsp;·&nbsp; 3 &nbsp;|&nbsp; [Web](#web) &nbsp;·&nbsp; 5
+[AI](#ai) &nbsp;·&nbsp; 13 &nbsp;|&nbsp; [Algorithm](#algorithm) &nbsp;·&nbsp; 13 &nbsp;|&nbsp; [Cs](#cs) &nbsp;·&nbsp; 2 &nbsp;|&nbsp; [Dev](#dev) &nbsp;·&nbsp; 5 &nbsp;|&nbsp; [Django](#django) &nbsp;·&nbsp; 1 &nbsp;|&nbsp; [Js](#js) &nbsp;·&nbsp; 3 &nbsp;|&nbsp; [Spring](#spring) &nbsp;·&nbsp; 1 &nbsp;|&nbsp; [Vue](#vue) &nbsp;·&nbsp; 3 &nbsp;|&nbsp; [Web](#web) &nbsp;·&nbsp; 5
 
 ## AI
 
@@ -62,11 +62,12 @@ Total **45** &nbsp;·&nbsp; Categories **9** &nbsp;·&nbsp; Last updated **2026-
 
 ## Dev
 
-<sub>4 notes</sub>
+<sub>5 notes</sub>
 
 | Title | Date |
 |:---|:---|
 | [테스트 통과와 테스트 실행은 다르다](dev/test-passed-vs-test-executed.md) | 2026-09-15 |
+| [요청값은 얼마나 유지되는가](dev/request-lifecycle-and-retention.md) | 2026-09-22 |
 | [Jenkins 테스트 환경과 GitLab 트리거 분리](dev/jenkins-test-environment-and-trigger.md) | 2026-07-29 |
 | [Git Flow & 형상관리](dev/git_flow.md) | 2026-06-26 |
 | [백엔드 인프라 개념 정리 (프록시 / 캐시 / GC / 스트림 / 압축 / CDN)](dev/backend_infra.md) | 2026-07-03 |
