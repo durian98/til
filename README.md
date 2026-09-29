@@ -5,11 +5,11 @@
 
 ---
 
-Total **46** &nbsp;·&nbsp; Categories **9** &nbsp;·&nbsp; Last updated **2026-09-22**
+Total **47** &nbsp;·&nbsp; Categories **9** &nbsp;·&nbsp; Last updated **2026-09-29**
 
 ---
 
-[AI](#ai) &nbsp;·&nbsp; 13 &nbsp;|&nbsp; [Algorithm](#algorithm) &nbsp;·&nbsp; 13 &nbsp;|&nbsp; [Cs](#cs) &nbsp;·&nbsp; 2 &nbsp;|&nbsp; [Dev](#dev) &nbsp;·&nbsp; 5 &nbsp;|&nbsp; [Django](#django) &nbsp;·&nbsp; 1 &nbsp;|&nbsp; [Js](#js) &nbsp;·&nbsp; 3 &nbsp;|&nbsp; [Spring](#spring) &nbsp;·&nbsp; 1 &nbsp;|&nbsp; [Vue](#vue) &nbsp;·&nbsp; 3 &nbsp;|&nbsp; [Web](#web) &nbsp;·&nbsp; 5
+[AI](#ai) &nbsp;·&nbsp; 13 &nbsp;|&nbsp; [Algorithm](#algorithm) &nbsp;·&nbsp; 13 &nbsp;|&nbsp; [Cs](#cs) &nbsp;·&nbsp; 2 &nbsp;|&nbsp; [Dev](#dev) &nbsp;·&nbsp; 5 &nbsp;|&nbsp; [Django](#django) &nbsp;·&nbsp; 1 &nbsp;|&nbsp; [Js](#js) &nbsp;·&nbsp; 3 &nbsp;|&nbsp; [Spring](#spring) &nbsp;·&nbsp; 2 &nbsp;|&nbsp; [Vue](#vue) &nbsp;·&nbsp; 3 &nbsp;|&nbsp; [Web](#web) &nbsp;·&nbsp; 5
 
 ## AI
 
@@ -92,11 +92,12 @@ Total **46** &nbsp;·&nbsp; Categories **9** &nbsp;·&nbsp; Last updated **2026-
 
 ## Spring
 
-<sub>1 notes</sub>
+<sub>2 notes</sub>
 
 | Title | Date |
 |:---|:---|
 | [Spring Boot Todo API - 첫 번째 CRUD](spring/springboot_todo_API_basic.md) | 2026-06-08 |
+| [`@Async` 작업은 DB 커밋을 기다리지 않는다](spring/async-after-commit.md) | 2026-09-29 |
 
 ## Vue
 
