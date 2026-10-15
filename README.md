@@ -5,11 +5,11 @@
 
 ---
 
-Total **47** &nbsp;·&nbsp; Categories **9** &nbsp;·&nbsp; Last updated **2026-09-29**
+Total **50** &nbsp;·&nbsp; Categories **10** &nbsp;·&nbsp; Last updated **2026-10-15**
 
 ---
 
-[AI](#ai) &nbsp;·&nbsp; 13 &nbsp;|&nbsp; [Algorithm](#algorithm) &nbsp;·&nbsp; 13 &nbsp;|&nbsp; [Cs](#cs) &nbsp;·&nbsp; 2 &nbsp;|&nbsp; [Dev](#dev) &nbsp;·&nbsp; 5 &nbsp;|&nbsp; [Django](#django) &nbsp;·&nbsp; 1 &nbsp;|&nbsp; [Js](#js) &nbsp;·&nbsp; 3 &nbsp;|&nbsp; [Spring](#spring) &nbsp;·&nbsp; 2 &nbsp;|&nbsp; [Vue](#vue) &nbsp;·&nbsp; 3 &nbsp;|&nbsp; [Web](#web) &nbsp;·&nbsp; 5
+[AI](#ai) &nbsp;·&nbsp; 13 &nbsp;|&nbsp; [Algorithm](#algorithm) &nbsp;·&nbsp; 13 &nbsp;|&nbsp; [Cs](#cs) &nbsp;·&nbsp; 2 &nbsp;|&nbsp; [Dev](#dev) &nbsp;·&nbsp; 6 &nbsp;|&nbsp; [Django](#django) &nbsp;·&nbsp; 1 &nbsp;|&nbsp; [Js](#js) &nbsp;·&nbsp; 3 &nbsp;|&nbsp; [Python](#python) &nbsp;·&nbsp; 1 &nbsp;|&nbsp; [Spring](#spring) &nbsp;·&nbsp; 3 &nbsp;|&nbsp; [Vue](#vue) &nbsp;·&nbsp; 3 &nbsp;|&nbsp; [Web](#web) &nbsp;·&nbsp; 5
 
 ## AI
 
@@ -62,7 +62,7 @@ Total **47** &nbsp;·&nbsp; Categories **9** &nbsp;·&nbsp; Last updated **2026-
 
 ## Dev
 
-<sub>5 notes</sub>
+<sub>6 notes</sub>
 
 | Title | Date |
 |:---|:---|
@@ -71,6 +71,7 @@ Total **47** &nbsp;·&nbsp; Categories **9** &nbsp;·&nbsp; Last updated **2026-
 | [Jenkins 테스트 환경과 GitLab 트리거 분리](dev/jenkins-test-environment-and-trigger.md) | 2026-07-29 |
 | [Git Flow & 형상관리](dev/git_flow.md) | 2026-06-26 |
 | [백엔드 인프라 개념 정리 (프록시 / 캐시 / GC / 스트림 / 압축 / CDN)](dev/backend_infra.md) | 2026-07-03 |
+| [비동기 작업 부하 테스트는 접수 이후까지 측정한다](dev/async-job-load-test.md) | 2026-10-15 |
 
 ## Django
 
@@ -90,13 +91,22 @@ Total **47** &nbsp;·&nbsp; Categories **9** &nbsp;·&nbsp; Last updated **2026-
 | [자바 기본 문법](js/js_basic.md) | 2026-05-14 |
 | [DOM](js/DOM.md) | 2026-05-13 |
 
+## Python
+
+<sub>1 notes</sub>
+
+| Title | Date |
+|:---|:---|
+| [경로 계산용 Python 프로세스를 재사용하기](python/persistent-worker-pool.md) | 2026-10-15 |
+
 ## Spring
 
-<sub>2 notes</sub>
+<sub>3 notes</sub>
 
 | Title | Date |
 |:---|:---|
 | [Spring Boot Todo API - 첫 번째 CRUD](spring/springboot_todo_API_basic.md) | 2026-06-08 |
+| [saveAll을 호출해도 INSERT가 배치로 실행되지는 않는다](spring/jpa-new-entity-and-jdbc-batch.md) | 2026-10-15 |
 | [`@Async` 작업은 DB 커밋을 기다리지 않는다](spring/async-after-commit.md) | 2026-09-29 |
 
 ## Vue
